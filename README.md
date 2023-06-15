@@ -73,5 +73,5 @@ https://youtu.be/tdYITPnwLfY
 
 ## Deployment
 
-https://647c5413c08dfa0fa48bca49--famous-dieffenbachia-7b76c7.netlify.app/
+https://wanderwise-vaibhavsr007.netlify.app/
 
